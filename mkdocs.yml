@@ -1,7 +1,6 @@
 site_name: My Docs
-copyright: Fernando Celmer
+copyright: Snowflake Nightingale
 repo_name: freeze-dolphin/blog
-repo_url: https://github.com/freeze-dolphin/blog/
 
 theme:
   name: simple-blog

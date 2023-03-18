@@ -1,4 +1,23 @@
 site_name: My Docs
+copyright: Fernando Celmer
+repo_name: freeze-dolphin/blog
+repo_url: https://github.com/freeze-dolphin/blog/
 
 theme:
-    name: simple-blog
+  name: simple-blog
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+  theme_style: light
+  site_name_style: normal
+  title_style: bold
+  colors:
+    text: black
+    title: black
+    primary: black
+    background: white
+  components:
+    site_name: true
+    title: true
+    menu: true
+    preview: true
+    footer: true

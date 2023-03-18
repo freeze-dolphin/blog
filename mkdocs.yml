@@ -3,16 +3,9 @@ copyright: Snowflake Nightingale
 repo_name: freeze-dolphin/blog
 
 theme:
-  name: simple-blog
+  name: terminal
   favicon: assets/favicon.ico
-  theme_style: light
-  site_name_style: normal
-  title_style: bold
-  colors:
-    text: black
-    title: black
-    primary: black
-    background: white
+  theme_style: dark
   components:
     site_name: true
     title: true

@@ -19,3 +19,12 @@ theme:
     menu: true
     preview: true
     footer: true
+  highlightjs: true
+  hljs_languages:
+    - yaml
+
+markdown_extentions:
+  - admonition
+
+plugins:
+  - search

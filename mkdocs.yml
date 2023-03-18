@@ -6,7 +6,6 @@ repo_url: https://github.com/freeze-dolphin/blog/
 theme:
   name: simple-blog
   favicon: assets/favicon.ico
-  logo: assets/logo.png
   theme_style: light
   site_name_style: normal
   title_style: bold
